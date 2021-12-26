@@ -55,6 +55,7 @@ footer {
     padding: 40px 35px;
     justify-content: space-between;
     flex-wrap: wrap;
+    display: flex;
 }
 
 footer h2 {
@@ -92,8 +93,8 @@ section {
     background-color: #fce138;
     padding: 20px;
     border: 3px solid #024e76;
-    width: 40%;
     margin: 3.5%;
+    width: 40%;
 }
 
 .hero-form p {
